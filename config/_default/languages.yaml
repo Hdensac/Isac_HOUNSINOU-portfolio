@@ -4,6 +4,7 @@
 fr:
   locale: fr-fr
   label: Français
+  contentDir: content/fr
   weight: 1
   menu:
     main:
